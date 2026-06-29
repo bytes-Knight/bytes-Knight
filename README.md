@@ -123,4 +123,3 @@ If you enjoy security research, consider following my work.
 ⭐ Star my repositories if you find them useful.
 
 </div>
-````
