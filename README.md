@@ -56,15 +56,20 @@ Philosophy  : Sharing knowledge makes everyone stronger.
 
 ---
 
-# GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bytes-Knight&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytes-Knight&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bytes-Knight&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=bytes-Knight&theme=tokyonight&hide_border=true" />
 </p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytes-Knight&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=bytes-Knight&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
+</a>
 
 ---
 
