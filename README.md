@@ -56,16 +56,31 @@ Philosophy  : Sharing knowledge makes everyone stronger.
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bytes-Knight&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=bytes-Knight&theme=tokyonight&hide_border=true" />
-</p>
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
-  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
-</a>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/bytes-Knight">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=bytes-Knight&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/bytes-Knight">
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=bytes-Knight&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  
+</table>
+<br />
 
 ---
 
@@ -81,9 +96,17 @@ Philosophy  : Sharing knowledge makes everyone stronger.
 
 # GitHub Trophies
 
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
-  <img src="https://github-profile-trophy-ahmed.vercel.app/?username=bytes-Knight&theme=onestar&no-bg=true&no-frame=true&row=1&column=7&v=3" alt="GitHub Trophies" />
+  <a href="https://github.com/bytes-Knight">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=bytes-Knight&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=bytes-Knight&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=bytes-Knight&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
 </p>
+<br />
 
 ---
 
