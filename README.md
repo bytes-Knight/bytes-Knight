@@ -94,8 +94,6 @@ Philosophy  : Sharing knowledge makes everyone stronger.
 
 ---
 
-# GitHub Trophies
-
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/bytes-Knight">
