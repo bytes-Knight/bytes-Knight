@@ -57,40 +57,11 @@ Philosophy  : Sharing knowledge makes everyone stronger.
 ---
 
 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<div align="center">
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/bytes-Knight">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=bytes-Knight&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/bytes-Knight">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=bytes-Knight&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  
-</table>
-<br />
+<br>
 
----
-
-# Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bytes-Knight&theme=tokyo-night&hide_border=true"/>
-
-</p>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bytes-Knight&theme=prussian" width="96%" height="auto"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bytes-Knight&theme=prussian" width="48%" height="auto" style="display: inline;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bytes-Knight&theme=prussian" width="48%" height="auto" style="display: inline;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bytes-Knight&theme=prussian" width="48%" height="auto" style="display: inline;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bytes-Knight&theme=prussian&utcOffset=+6.5" width="48%" height="auto" style="display: inline;"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=bytes-Knight&bg_color=1E3A4C&color=00FFFF&line=FF0000&point=FFA07A&area=true&hide_border=false" width="96%" height="auto">
 
 ---
 
