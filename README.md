@@ -83,7 +83,6 @@ Philosophy  : Sharing knowledge makes everyone stronger.
 
 - Discover impactful security vulnerabilities
 - Build open-source security tools
-- Publish write-ups and research
 - Automate reconnaissance workflows
 - Contribute to the cybersecurity community
 
