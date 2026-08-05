@@ -1,0 +1,289 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" width="100%" height="auto">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#161b22"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="120" fill="url(#bgGrad)" rx="8"/>
+  
+  <!-- Heatmap Grid - 7 rows x 28 columns -->
+  <!-- Row 1 (top) -->
+  <g transform="translate(20, 10)">
+    <!-- Row labels -->
+    <text x="-15" y="15" fill="#8b949e" font-size="10" font-family="monospace">Mon</text>
+    <text x="-15" y="28" fill="#8b949e" font-size="10" font-family="monospace">Tue</text>
+    <text x="-15" y="41" fill="#8b949e" font-size="10" font-family="monospace">Wed</text>
+    <text x="-15" y="54" fill="#8b949e" font-size="10" font-family="monospace">Thu</text>
+    <text x="-15" y="67" fill="#8b949e" font-size="10" font-family="monospace">Fri</text>
+    <text x="-15" y="80" fill="#8b949e" font-size="10" font-family="monospace">Sat</text>
+    <text x="-15" y="93" fill="#8b949e" font-size="10" font-family="monospace">Sun</text>
+    
+    <!-- Week 1 -->
+    <rect x="0" y="10" width="11" height="11" fill="#2b6a70" rx="2"/>
+    <rect x="0" y="23" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="0" y="36" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="0" y="49" width="11" height="11" fill="#2b6a70" rx="2"/>
+    <rect x="0" y="62" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="0" y="75" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="0" y="88" width="11" height="11" fill="#3fb950" rx="2"/>
+    
+    <!-- Week 2 -->
+    <rect x="15" y="10" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="15" y="23" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="15" y="36" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="15" y="49" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="15" y="62" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="15" y="75" width="11" height="11" fill="#2b6a70" rx="2"/>
+    <rect x="15" y="88" width="11" height="11" fill="#56d364" rx="2"/>
+    
+    <!-- Week 3 -->
+    <rect x="30" y="10" width="11" height="11" fill="#2b6a70" rx="2"/>
+    <rect x="30" y="23" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="30" y="36" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="30" y="49" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="30" y="62" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="30" y="75" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="30" y="88" width="11" height="11" fill="#2b6a70" rx="2"/>
+    
+    <!-- Week 4 -->
+    <rect x="45" y="10" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="45" y="23" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="45" y="36" width="11" height="11" fill="#2b6a70" rx="2"/>
+    <rect x="45" y="49" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="45" y="62" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="45" y="75" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="45" y="88" width="11" height="11" fill="#3fb950" rx="2"/>
+    
+    <!-- Week 5 -->
+    <rect x="60" y="10" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="60" y="23" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="60" y="36" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="60" y="49" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="60" y="62" width="11" height="11" fill="#2b6a70" rx="2"/>
+    <rect x="60" y="75" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="60" y="88" width="11" height="11" fill="#2aa198" rx="2"/>
+    
+    <!-- Week 6 -->
+    <rect x="75" y="10" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="75" y="23" width="11" height="11" fill="#2b6a70" rx="2"/>
+    <rect x="75" y="36" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="75" y="49" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="75" y="62" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="75" y="75" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="75" y="88" width="11" height="11" fill="#2b6a70" rx="2"/>
+    
+    <!-- Week 7 -->
+    <rect x="90" y="10" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="90" y="23" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="90" y="36" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="90" y="49" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="90" y="62" width="11" height="11" fill="#2b6a70" rx="2"/>
+    <rect x="90" y="75" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="90" y="88" width="11" height="11" fill="#56d364" rx="2"/>
+    
+    <!-- Week 8 -->
+    <rect x="105" y="10" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="105" y="23" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="105" y="36" width="11" height="11" fill="#2b6a70" rx="2"/>
+    <rect x="105" y="49" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="105" y="62" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="105" y="75" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="105" y="88" width="11" height="11" fill="#2b6a70" rx="2"/>
+    
+    <!-- Week 9 -->
+    <rect x="120" y="10" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="120" y="23" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="120" y="36" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="120" y="49" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="120" y="62" width="11" height="11" fill="#2b6a70" rx="2"/>
+    <rect x="120" y="75" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="120" y="88" width="11" height="11" fill="#2aa198" rx="2"/>
+    
+    <!-- Week 10 -->
+    <rect x="135" y="10" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="135" y="23" width="11" height="11" fill="#2b6a70" rx="2"/>
+    <rect x="135" y="36" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="135" y="49" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="135" y="62" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="135" y="75" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="135" y="88" width="11" height="11" fill="#2b6a70" rx="2"/>
+    
+    <!-- Week 11 -->
+    <rect x="150" y="10" width="11" height="11" fill="#2b6a70" rx="2"/>
+    <rect x="150" y="23" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="150" y="36" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="150" y="49" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="150" y="62" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="150" y="75" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="150" y="88" width="11" height="11" fill="#2aa198" rx="2"/>
+    
+    <!-- Week 12 -->
+    <rect x="165" y="10" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="165" y="23" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="165" y="36" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="165" y="49" width="11" height="11" fill="#2b6a70" rx="2"/>
+    <rect x="165" y="62" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="165" y="75" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="165" y="88" width="11" height="11" fill="#3fb950" rx="2"/>
+    
+    <!-- Week 13 -->
+    <rect x="180" y="10" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="180" y="23" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="180" y="36" width="11" height="11" fill="#2b6a70" rx="2"/>
+    <rect x="180" y="49" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="180" y="62" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="180" y="75" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="180" y="88" width="11" height="11" fill="#2b6a70" rx="2"/>
+    
+    <!-- Week 14 -->
+    <rect x="195" y="10" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="195" y="23" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="195" y="36" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="195" y="49" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="195" y="62" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="195" y="75" width="11" height="11" fill="#2b6a70" rx="2"/>
+    <rect x="195" y="88" width="11" height="11" fill="#56d364" rx="2"/>
+    
+    <!-- Week 15 -->
+    <rect x="210" y="10" width="11" height="11" fill="#2b6a70" rx="2"/>
+    <rect x="210" y="23" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="210" y="36" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="210" y="49" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="210" y="62" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="210" y="75" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="210" y="88" width="11" height="11" fill="#2aa198" rx="2"/>
+    
+    <!-- Week 16 -->
+    <rect x="225" y="10" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="225" y="23" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="225" y="36" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="225" y="49" width="11" height="11" fill="#2b6a70" rx="2"/>
+    <rect x="225" y="62" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="225" y="75" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="225" y="88" width="11" height="11" fill="#3fb950" rx="2"/>
+    
+    <!-- Week 17 -->
+    <rect x="240" y="10" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="240" y="23" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="240" y="36" width="11" height="11" fill="#2b6a70" rx="2"/>
+    <rect x="240" y="49" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="240" y="62" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="240" y="75" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="240" y="88" width="11" height="11" fill="#2b6a70" rx="2"/>
+    
+    <!-- Week 18 -->
+    <rect x="255" y="10" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="255" y="23" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="255" y="36" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="255" y="49" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="255" y="62" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="255" y="75" width="11" height="11" fill="#2b6a70" rx="2"/>
+    <rect x="255" y="88" width="11" height="11" fill="#56d364" rx="2"/>
+    
+    <!-- Week 19 -->
+    <rect x="270" y="10" width="11" height="11" fill="#2b6a70" rx="2"/>
+    <rect x="270" y="23" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="270" y="36" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="270" y="49" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="270" y="62" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="270" y="75" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="270" y="88" width="11" height="11" fill="#2aa198" rx="2"/>
+    
+    <!-- Week 20 -->
+    <rect x="285" y="10" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="285" y="23" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="285" y="36" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="285" y="49" width="11" height="11" fill="#2b6a70" rx="2"/>
+    <rect x="285" y="62" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="285" y="75" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="285" y="88" width="11" height="11" fill="#3fb950" rx="2"/>
+    
+    <!-- Week 21 -->
+    <rect x="300" y="10" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="300" y="23" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="300" y="36" width="11" height="11" fill="#2b6a70" rx="2"/>
+    <rect x="300" y="49" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="300" y="62" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="300" y="75" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="300" y="88" width="11" height="11" fill="#2b6a70" rx="2"/>
+    
+    <!-- Week 22 -->
+    <rect x="315" y="10" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="315" y="23" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="315" y="36" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="315" y="49" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="315" y="62" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="315" y="75" width="11" height="11" fill="#2b6a70" rx="2"/>
+    <rect x="315" y="88" width="11" height="11" fill="#56d364" rx="2"/>
+    
+    <!-- Week 23 -->
+    <rect x="330" y="10" width="11" height="11" fill="#2b6a70" rx="2"/>
+    <rect x="330" y="23" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="330" y="36" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="330" y="49" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="330" y="62" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="330" y="75" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="330" y="88" width="11" height="11" fill="#2aa198" rx="2"/>
+    
+    <!-- Week 24 -->
+    <rect x="345" y="10" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="345" y="23" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="345" y="36" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="345" y="49" width="11" height="11" fill="#2b6a70" rx="2"/>
+    <rect x="345" y="62" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="345" y="75" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="345" y="88" width="11" height="11" fill="#3fb950" rx="2"/>
+    
+    <!-- Week 25 -->
+    <rect x="360" y="10" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="360" y="23" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="360" y="36" width="11" height="11" fill="#2b6a70" rx="2"/>
+    <rect x="360" y="49" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="360" y="62" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="360" y="75" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="360" y="88" width="11" height="11" fill="#2b6a70" rx="2"/>
+    
+    <!-- Week 26 -->
+    <rect x="375" y="10" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="375" y="23" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="375" y="36" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="375" y="49" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="375" y="62" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="375" y="75" width="11" height="11" fill="#2b6a70" rx="2"/>
+    <rect x="375" y="88" width="11" height="11" fill="#56d364" rx="2"/>
+    
+    <!-- Week 27 -->
+    <rect x="390" y="10" width="11" height="11" fill="#2b6a70" rx="2"/>
+    <rect x="390" y="23" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="390" y="36" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="390" y="49" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="390" y="62" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="390" y="75" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="390" y="88" width="11" height="11" fill="#2aa198" rx="2"/>
+    
+    <!-- Week 28 -->
+    <rect x="405" y="10" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="405" y="23" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="405" y="36" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="405" y="49" width="11" height="11" fill="#2b6a70" rx="2"/>
+    <rect x="405" y="62" width="11" height="11" fill="#56d364" rx="2"/>
+    <rect x="405" y="75" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="405" y="88" width="11" height="11" fill="#3fb950" rx="2"/>
+  </g>
+  
+  <!-- Legend -->
+  <g transform="translate(500, 10)">
+    <text x="0" y="8" fill="#8b949e" font-size="11" font-family="monospace">Less</text>
+    <rect x="45" y="0" width="11" height="11" fill="#2b6a70" rx="2"/>
+    <rect x="60" y="0" width="11" height="11" fill="#2aa198" rx="2"/>
+    <rect x="75" y="0" width="11" height="11" fill="#3fb950" rx="2"/>
+    <rect x="90" y="0" width="11" height="11" fill="#56d364" rx="2"/>
+    <text x="110" y="8" fill="#8b949e" font-size="11" font-family="monospace">More</text>
+  </g>
+  
+  <!-- Title -->
+  <text x="500" y="110" text-anchor="middle" fill="#8b949e" font-size="12" font-family="monospace">CONTRIBUTION HEATMAP</text>
+</svg>

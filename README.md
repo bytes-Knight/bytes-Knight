@@ -1,14 +1,8 @@
 <div align="center">
 
-```text
-[38;5;45m██████╗  ██╗   ██╗ ████████╗ ███████╗ ███████╗      ██╗  ██╗ ███╗   ██╗ ██╗  ██████╗  ██╗  ██╗ ████████╗[0m
-[38;5;45m██╔══██╗ ╚██╗ ██╔╝ ╚══██╔══╝ ██╔════╝ ██╔════╝      ██║ ██╔╝ ████╗  ██║ ██║ ██╔════╝  ██║  ██║ ╚══██╔══╝[0m
-[38;5;45m██████╔╝  ╚████╔╝     ██║    █████╗   ███████╗      █████╔╝  ██╔██╗ ██║ ██║ ██║  ███╗ ███████║    ██║[0m
-[38;5;45m██╔══██╗   ╚██╔╝      ██║    ██╔══╝   ╚════██║      ██╔═██╗  ██║╚██╗██║ ██║ ██║   ██║ ██╔══██║    ██║[0m
-[38;5;45m██████╔╝    ██║       ██║    ███████╗ ███████║      ██║  ██╗ ██║ ╚████║ ██║ ╚██████╔╝ ██║  ██║    ██║[0m
-[38;5;45m╚═════╝     ╚═╝       ╚═╝    ╚══════╝ ╚══════╝      ╚═╝  ╚═╝ ╚═╝  ╚═══╝ ╚═╝  ╚═════╝  ╚═╝  ╚═╝    ╚═╝[0m
-[38;5;82m> offensive security • bug bounty hunter • security researcher[0m
-```
+<img src="./assets/banner.svg" width="100%" alt="BYTES KNIGHT — Offensive Security • Bug Bounty Hunter • Security Researcher"/>
+
+<br/>
 
 <a href="https://x.com/bytes_Knight"><img src="https://img.shields.io/badge/X-%40bytes_Knight-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 <a href="https://github.com/bytes-Knight"><img src="https://img.shields.io/badge/GitHub-bytes--Knight-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -19,18 +13,22 @@
 
 <h3 align="center" style="color:#45d6f0; font-family:monospace;">// ABOUT ME</h3>
 
-```text
-[38;5;82m➜[0m [38;5;45m~/bytes-knight[0m [38;5;245m(main)[0m
-[38;5;82m$[0m cat about_me.txt
+<div align="center">
 
-[38;5;45mname[0m        : Bytes_Knight
-[38;5;45mfocus[0m       : Web Application Security
-[38;5;45mspeciality[0m  : Bug Bounty & Offensive Security
-[38;5;45mlearning[0m    : Advanced Exploitation & Research
-[38;5;45mphilosophy[0m  : Sharing knowledge makes everyone stronger.
+<table style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; font-family:monospace; text-align:left; max-width:500px;">
+<tr><td style="padding:8px 16px; color:#3fb950; white-space:nowrap;">➜</td><td style="padding:8px 16px; color:#45d6f0;">~/bytes-knight</td><td style="padding:8px 16px; color:#8b949e;">(main)</td></tr>
+<tr><td style="padding:8px 16px; color:#3fb950;">$</td><td style="padding:8px 16px; color:#8b949e;" colspan="2">cat about_me.txt</td></tr>
+<tr><td colspan="3" style="padding:8px 16px; color:#30363d;">─────────────────────────────────</td></tr>
+<tr><td style="padding:4px 16px; color:#45d6f0;">name</td><td style="padding:4px 16px; color:#c9d1d9;" colspan="2">: Bytes_Knight</td></tr>
+<tr><td style="padding:4px 16px; color:#45d6f0;">focus</td><td style="padding:4px 16px; color:#c9d1d9;" colspan="2">: Web Application Security</td></tr>
+<tr><td style="padding:4px 16px; color:#45d6f0;">speciality</td><td style="padding:4px 16px; color:#c9d1d9;" colspan="2">: Bug Bounty &amp; Offensive Security</td></tr>
+<tr><td style="padding:4px 16px; color:#45d6f0;">learning</td><td style="padding:4px 16px; color:#c9d1d9;" colspan="2">: Advanced Exploitation &amp; Research</td></tr>
+<tr><td style="padding:4px 16px; color:#45d6f0;">philosophy</td><td style="padding:4px 16px; color:#c9d1d9;" colspan="2">: Sharing knowledge makes everyone stronger.</td></tr>
+<tr><td colspan="3" style="padding:8px 16px; color:#30363d;">─────────────────────────────────</td></tr>
+<tr><td style="padding:8px 16px; color:#3fb950;">$</td><td style="padding:8px 16px; color:#c9d1d9;" colspan="2"><span style="color:#56d364;">█</span></td></tr>
+</table>
 
-[38;5;82m$[0m █
-```
+</div>
 
 ---
 
@@ -55,40 +53,21 @@
 
 <h3 align="center" style="color:#45d6f0; font-family:monospace;">// STATUS</h3>
 
-```text
-[38;5;82m$[0m ./bytes_knight --status
+<div align="center">
 
-[38;5;45m[hunting][0m       [38;5;82m▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓[0m[38;5;240m░░░░[0m [38;5;82m80%[0m
-[38;5;45m[research][0m      [38;5;48m▓▓▓▓▓▓▓▓▓▓▓▓▓[0m[38;5;240m░░░░░░░[0m [38;5;48m65%[0m
-[38;5;45m[automation][0m    [38;5;37m▓▓▓▓▓▓▓▓▓[0m[38;5;240m░░░░░░░░░░░[0m [38;5;37m45%[0m
-[38;5;45m[documentation][0m [38;5;37m▓▓▓▓▓[0m[38;5;240m░░░░░░░░░░░░░░░[0m [38;5;37m25%[0m
-```
+<img src="./assets/status.svg" width="100%" alt="Status — Hunting 80% | Research 65% | Automation 45% | Documentation 25%"/>
 
-```text
-[38;5;23m██[0m  [38;5;23m██[0m                  [38;5;37m██[0m  [38;5;23m██[0m      [38;5;37m██[0m      [38;5;37m██[0m      [38;5;48m██[0m  [38;5;82m██[0m      [38;5;23m██[0m  [38;5;37m██[0m      [38;5;23m██[0m  [38;5;23m██[0m      [38;5;23m██[0m  [38;5;37m██[0m  [38;5;23m██[0m  [38;5;37m██[0m      [38;5;23m██[0m
-            [38;5;48m██[0m  [38;5;37m██[0m  [38;5;37m██[0m  [38;5;37m██[0m  [38;5;82m██[0m  [38;5;37m██[0m  [38;5;37m██[0m  [38;5;37m██[0m          [38;5;48m██[0m          [38;5;37m██[0m  [38;5;23m██[0m              [38;5;23m██[0m                  [38;5;37m██[0m
-[38;5;37m██[0m  [38;5;23m██[0m  [38;5;37m██[0m  [38;5;23m██[0m  [38;5;37m██[0m  [38;5;23m██[0m          [38;5;37m██[0m  [38;5;23m██[0m  [38;5;37m██[0m  [38;5;23m██[0m  [38;5;23m██[0m  [38;5;48m██[0m      [38;5;23m██[0m  [38;5;37m██[0m  [38;5;23m██[0m  [38;5;23m██[0m  [38;5;48m██[0m  [38;5;48m██[0m      [38;5;23m██[0m  [38;5;23m██[0m  [38;5;48m██[0m  [38;5;23m██[0m  [38;5;82m██[0m
-        [38;5;82m██[0m      [38;5;23m██[0m  [38;5;23m██[0m  [38;5;37m██[0m  [38;5;23m██[0m  [38;5;37m██[0m  [38;5;48m██[0m  [38;5;82m██[0m      [38;5;48m██[0m          [38;5;23m██[0m              [38;5;37m██[0m  [38;5;82m██[0m  [38;5;48m██[0m          [38;5;82m██[0m  [38;5;23m██[0m  [38;5;23m██[0m
-[38;5;23m██[0m      [38;5;37m██[0m      [38;5;23m██[0m  [38;5;37m██[0m  [38;5;23m██[0m  [38;5;37m██[0m  [38;5;48m██[0m  [38;5;82m██[0m  [38;5;48m██[0m          [38;5;23m██[0m      [38;5;37m██[0m  [38;5;48m██[0m  [38;5;37m██[0m          [38;5;23m██[0m      [38;5;23m██[0m  [38;5;37m██[0m  [38;5;48m██[0m      [38;5;82m██[0m
-[38;5;23m██[0m  [38;5;23m██[0m  [38;5;23m██[0m  [38;5;23m██[0m      [38;5;23m██[0m  [38;5;48m██[0m      [38;5;23m██[0m  [38;5;23m██[0m  [38;5;23m██[0m      [38;5;23m██[0m  [38;5;23m██[0m  [38;5;23m██[0m  [38;5;82m██[0m  [38;5;37m██[0m              [38;5;23m██[0m      [38;5;82m██[0m  [38;5;23m██[0m  [38;5;48m██[0m      [38;5;82m██[0m  [38;5;37m██[0m
-    [38;5;48m██[0m  [38;5;82m██[0m  [38;5;48m██[0m      [38;5;23m██[0m  [38;5;37m██[0m  [38;5;23m██[0m  [38;5;37m██[0m  [38;5;37m██[0m  [38;5;23m██[0m  [38;5;37m██[0m  [38;5;23m██[0m  [38;5;48m██[0m  [38;5;37m██[0m  [38;5;37m██[0m  [38;5;48m██[0m          [38;5;23m██[0m      [38;5;82m██[0m  [38;5;48m██[0m  [38;5;37m██[0m  [38;5;48m██[0m      [38;5;82m██[0m  [38;5;48m██[0m
-```
+<br/>
 
-<p align="center">
-  <span style="color:#8b949e;">contribution heatmap</span>
-  &nbsp;
-  <span style="color:#45d6f0;">less</span>
-  <span style="color:#2b6a70;">▮</span><span style="color:#2aa198;">▮</span><span style="color:#3fb950;">▮</span><span style="color:#56d364;">▮</span>
-  <span style="color:#45d6f0;">more</span>
-</p>
+<img src="./assets/heatmap.svg" width="100%" alt="Contribution Heatmap"/>
+
+</div>
 
 <table align="center" style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; font-family:monospace; text-align:left;">
-<tr><td style="padding:6px 16px; color:#45d6f0; font-weight:bold;">▶ STATUS</td><td style="padding:6px 16px; color:#3fb950;">● active — hunting 🎯</td></tr>
-<tr><td style="padding:6px 16px; color:#45d6f0;">weapons</td><td style="padding:6px 16px; color:#c9d1d9;">Python · Bash · Go · Rust · Burp Suite · nuclei · ffuf</td></tr>
-<tr><td style="padding:6px 16px; color:#45d6f0;">open to</td><td style="padding:6px 16px; color:#c9d1d9;">collaboration &amp; bug bounty invites — let&#39;s build something secure 🔒</td></tr>
+<tr><td style="padding:8px 16px; color:#45d6f0; font-weight:bold;">▶ STATUS</td><td style="padding:8px 16px; color:#3fb950;">● active — hunting 🎯</td></tr>
+<tr><td style="padding:8px 16px; color:#45d6f0;">weapons</td><td style="padding:8px 16px; color:#c9d1d9;">Python · Bash · Go · Rust · Burp Suite · nuclei · ffuf</td></tr>
+<tr><td style="padding:8px 16px; color:#45d6f0;">open to</td><td style="padding:8px 16px; color:#c9d1d9;">collaboration &amp; bug bounty invites — let's build something secure 🔒</td></tr>
 </table>
-
-<!-- No external stats APIs → nothing to rate-limit 🚫 -->
 
 ---
 
