@@ -1,106 +1,121 @@
 <div align="center">
 
-# 👋 Hello, I'm Bytes_Knight
+```text
+[38;5;45m██████╗  ██╗   ██╗ ████████╗ ███████╗ ███████╗      ██╗  ██╗ ███╗   ██╗ ██╗  ██████╗  ██╗  ██╗ ████████╗[0m
+[38;5;45m██╔══██╗ ╚██╗ ██╔╝ ╚══██╔══╝ ██╔════╝ ██╔════╝      ██║ ██╔╝ ████╗  ██║ ██║ ██╔════╝  ██║  ██║ ╚══██╔══╝[0m
+[38;5;45m██████╔╝  ╚████╔╝     ██║    █████╗   ███████╗      █████╔╝  ██╔██╗ ██║ ██║ ██║  ███╗ ███████║    ██║[0m
+[38;5;45m██╔══██╗   ╚██╔╝      ██║    ██╔══╝   ╚════██║      ██╔═██╗  ██║╚██╗██║ ██║ ██║   ██║ ██╔══██║    ██║[0m
+[38;5;45m██████╔╝    ██║       ██║    ███████╗ ███████║      ██║  ██╗ ██║ ╚████║ ██║ ╚██████╔╝ ██║  ██║    ██║[0m
+[38;5;45m╚═════╝     ╚═╝       ╚═╝    ╚══════╝ ╚══════╝      ╚═╝  ╚═╝ ╚═╝  ╚═══╝ ╚═╝  ╚═════╝  ╚═╝  ╚═╝    ╚═╝[0m
+[38;5;82m> offensive security • bug bounty hunter • security researcher[0m
+```
 
-### Offensive Security • Bug Bounty Hunter • Security Researcher
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Bug+Bounty+Hunter;Security+Researcher;Web+Application+Pentester;Open+Source+Enthusiast;Always+Learning+Something+New" />
-
-<br>
-
-<a href="https://x.com/bytes_Knight">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
-</a>
-
-<a href="https://github.com/bytes-Knight">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=bytes-Knight&style=for-the-badge&color=blue">
+<a href="https://x.com/bytes_Knight"><img src="https://img.shields.io/badge/X-%40bytes_Knight-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+<a href="https://github.com/bytes-Knight"><img src="https://img.shields.io/badge/GitHub-bytes--Knight-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 </div>
 
 ---
 
-# About Me
+<h3 align="center" style="color:#45d6f0; font-family:monospace;">// ABOUT ME</h3>
 
 ```text
-Name        : Bytes_Knight
-Focus       : Web Application Security
-Speciality  : Bug Bounty & Offensive Security
-Learning    : Advanced Exploitation & Research
-Philosophy  : Sharing knowledge makes everyone stronger.
+[38;5;82m➜[0m [38;5;45m~/bytes-knight[0m [38;5;245m(main)[0m
+[38;5;82m$[0m cat about_me.txt
+
+[38;5;45mname[0m        : Bytes_Knight
+[38;5;45mfocus[0m       : Web Application Security
+[38;5;45mspeciality[0m  : Bug Bounty & Offensive Security
+[38;5;45mlearning[0m    : Advanced Exploitation & Research
+[38;5;45mphilosophy[0m  : Sharing knowledge makes everyone stronger.
+
+[38;5;82m$[0m █
 ```
 
 ---
 
-# Tech Stack
+<h3 align="center" style="color:#45d6f0; font-family:monospace;">// TECH STACK</h3>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,bash,go,rust,js,linux,docker,git,github,vscode,html,css"/>
-
+  <img src="https://skillicons.dev/icons?i=python,bash,go,rust,js,linux,docker,git,github,vscode,html,css" alt="Tech Stack">
 </p>
 
 ---
 
-# Cybersecurity Interests
+<h3 align="center" style="color:#45d6f0; font-family:monospace;">// INTERESTS</h3>
 
-- Web Application Security
-- Bug Bounty Hunting
-- API Security
-- Authentication Testing
-- Recon Automation
-- Vulnerability Research
-- Open Source Projects
-
----
-
-
-<div align="center">
-
-<br>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bytes-Knight&theme=prussian" width="96%" height="auto"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bytes-Knight&theme=prussian" width="48%" height="auto" style="display: inline;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bytes-Knight&theme=prussian" width="48%" height="auto" style="display: inline;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bytes-Knight&theme=prussian" width="48%" height="auto" style="display: inline;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bytes-Knight&theme=prussian&utcOffset=+6.5" width="48%" height="auto" style="display: inline;"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=bytes-Knight&bg_color=1E3A4C&color=00FFFF&line=FF0000&point=FFA07A&area=true&hide_border=false" width="96%" height="auto">
+| 🎯 Focus | 🎯 Focus |
+| --- | --- |
+| 🌐 Web Application Security | 🔓 Authentication Testing |
+| 🐛 Bug Bounty Hunting | 🤖 Recon Automation |
+| 🔗 API Security | 🔬 Vulnerability Research |
+| 📦 Open Source Projects | 📚 Continuous Learning |
 
 ---
 
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<h3 align="center" style="color:#45d6f0; font-family:monospace;">// STATUS</h3>
+
+```text
+[38;5;82m$[0m ./bytes_knight --status
+
+[38;5;45m[hunting][0m       [38;5;82m▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓[0m[38;5;240m░░░░[0m [38;5;82m80%[0m
+[38;5;45m[research][0m      [38;5;48m▓▓▓▓▓▓▓▓▓▓▓▓▓[0m[38;5;240m░░░░░░░[0m [38;5;48m65%[0m
+[38;5;45m[automation][0m    [38;5;37m▓▓▓▓▓▓▓▓▓[0m[38;5;240m░░░░░░░░░░░[0m [38;5;37m45%[0m
+[38;5;45m[documentation][0m [38;5;37m▓▓▓▓▓[0m[38;5;240m░░░░░░░░░░░░░░░[0m [38;5;37m25%[0m
+```
+
+```text
+[38;5;23m██[0m  [38;5;23m██[0m                  [38;5;37m██[0m  [38;5;23m██[0m      [38;5;37m██[0m      [38;5;37m██[0m      [38;5;48m██[0m  [38;5;82m██[0m      [38;5;23m██[0m  [38;5;37m██[0m      [38;5;23m██[0m  [38;5;23m██[0m      [38;5;23m██[0m  [38;5;37m██[0m  [38;5;23m██[0m  [38;5;37m██[0m      [38;5;23m██[0m
+            [38;5;48m██[0m  [38;5;37m██[0m  [38;5;37m██[0m  [38;5;37m██[0m  [38;5;82m██[0m  [38;5;37m██[0m  [38;5;37m██[0m  [38;5;37m██[0m          [38;5;48m██[0m          [38;5;37m██[0m  [38;5;23m██[0m              [38;5;23m██[0m                  [38;5;37m██[0m
+[38;5;37m██[0m  [38;5;23m██[0m  [38;5;37m██[0m  [38;5;23m██[0m  [38;5;37m██[0m  [38;5;23m██[0m          [38;5;37m██[0m  [38;5;23m██[0m  [38;5;37m██[0m  [38;5;23m██[0m  [38;5;23m██[0m  [38;5;48m██[0m      [38;5;23m██[0m  [38;5;37m██[0m  [38;5;23m██[0m  [38;5;23m██[0m  [38;5;48m██[0m  [38;5;48m██[0m      [38;5;23m██[0m  [38;5;23m██[0m  [38;5;48m██[0m  [38;5;23m██[0m  [38;5;82m██[0m
+        [38;5;82m██[0m      [38;5;23m██[0m  [38;5;23m██[0m  [38;5;37m██[0m  [38;5;23m██[0m  [38;5;37m██[0m  [38;5;48m██[0m  [38;5;82m██[0m      [38;5;48m██[0m          [38;5;23m██[0m              [38;5;37m██[0m  [38;5;82m██[0m  [38;5;48m██[0m          [38;5;82m██[0m  [38;5;23m██[0m  [38;5;23m██[0m
+[38;5;23m██[0m      [38;5;37m██[0m      [38;5;23m██[0m  [38;5;37m██[0m  [38;5;23m██[0m  [38;5;37m██[0m  [38;5;48m██[0m  [38;5;82m██[0m  [38;5;48m██[0m          [38;5;23m██[0m      [38;5;37m██[0m  [38;5;48m██[0m  [38;5;37m██[0m          [38;5;23m██[0m      [38;5;23m██[0m  [38;5;37m██[0m  [38;5;48m██[0m      [38;5;82m██[0m
+[38;5;23m██[0m  [38;5;23m██[0m  [38;5;23m██[0m  [38;5;23m██[0m      [38;5;23m██[0m  [38;5;48m██[0m      [38;5;23m██[0m  [38;5;23m██[0m  [38;5;23m██[0m      [38;5;23m██[0m  [38;5;23m██[0m  [38;5;23m██[0m  [38;5;82m██[0m  [38;5;37m██[0m              [38;5;23m██[0m      [38;5;82m██[0m  [38;5;23m██[0m  [38;5;48m██[0m      [38;5;82m██[0m  [38;5;37m██[0m
+    [38;5;48m██[0m  [38;5;82m██[0m  [38;5;48m██[0m      [38;5;23m██[0m  [38;5;37m██[0m  [38;5;23m██[0m  [38;5;37m██[0m  [38;5;37m██[0m  [38;5;23m██[0m  [38;5;37m██[0m  [38;5;23m██[0m  [38;5;48m██[0m  [38;5;37m██[0m  [38;5;37m██[0m  [38;5;48m██[0m          [38;5;23m██[0m      [38;5;82m██[0m  [38;5;48m██[0m  [38;5;37m██[0m  [38;5;48m██[0m      [38;5;82m██[0m  [38;5;48m██[0m
+```
+
 <p align="center">
-  <a href="https://github.com/bytes-Knight">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=bytes-Knight&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=bytes-Knight&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=bytes-Knight&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
-  </a>
+  <span style="color:#8b949e;">contribution heatmap</span>
+  &nbsp;
+  <span style="color:#45d6f0;">less</span>
+  <span style="color:#2b6a70;">▮</span><span style="color:#2aa198;">▮</span><span style="color:#3fb950;">▮</span><span style="color:#56d364;">▮</span>
+  <span style="color:#45d6f0;">more</span>
 </p>
-<br />
+
+<table align="center" style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; font-family:monospace; text-align:left;">
+<tr><td style="padding:6px 16px; color:#45d6f0; font-weight:bold;">▶ STATUS</td><td style="padding:6px 16px; color:#3fb950;">● active — hunting 🎯</td></tr>
+<tr><td style="padding:6px 16px; color:#45d6f0;">weapons</td><td style="padding:6px 16px; color:#c9d1d9;">Python · Bash · Go · Rust · Burp Suite · nuclei · ffuf</td></tr>
+<tr><td style="padding:6px 16px; color:#45d6f0;">open to</td><td style="padding:6px 16px; color:#c9d1d9;">collaboration &amp; bug bounty invites — let&#39;s build something secure 🔒</td></tr>
+</table>
+
+<!-- No external stats APIs → nothing to rate-limit 🚫 -->
 
 ---
 
-# Current Goals
+<h3 align="center" style="color:#45d6f0; font-family:monospace;">// ACHIEVEMENTS</h3>
 
-- Discover impactful security vulnerabilities
-- Build open-source security tools
-- Automate reconnaissance workflows
-- Contribute to the cybersecurity community
-
----
-
-# Quote
-
-> "Security is not about breaking things. It's about understanding how they work."
+| 🏅 Badges | 🏅 Badges | 🏅 Badges | 🏅 Badges |
+| --- | --- | --- | --- |
+| 🐛 **Bug Hunter**<br>finding & responsibly disclosing | 🔐 **Web Pentester**<br>OWASP top-10 minded | 🕵️ **Recon Specialist**<br>asset & subdomain discovery | ⚡ **API Security**<br>auth & endpoint abuse |
+| 🎯 **Red Team**<br>offensive mindset | 🛡️ **Hardening**<br>securing the stack | 🧪 **PoC Developer**<br>proof-of-concept tooling | 📚 **Researcher**<br>always learning |
 
 ---
 
-<div align="center">
+<h3 align="center" style="color:#45d6f0; font-family:monospace;">// CURRENT GOALS</h3>
 
+- 🎯 Discover impactful security vulnerabilities
+- 🛠️ Build open-source security tools
+- 🤖 Automate reconnaissance workflows
+- 🌍 Contribute to the cybersecurity community
 
-### Thanks for visiting!
+---
 
-If you enjoy security research, consider following my work.
+> *"Security is not about breaking things. It's about understanding how they work."*
 
-⭐ Star my repositories if you find them useful.
+---
 
-</div>
+<p align="center">
+  <b style="color:#45d6f0;">Thanks for visiting!</b><br/>
+  If you enjoy security research, consider following my work.<br/>
+  ⭐ Star my repositories if you find them useful.
+</p>
