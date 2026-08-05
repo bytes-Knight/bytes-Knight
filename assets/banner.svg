@@ -1,16 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="100%" height="auto">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" height="auto">
   <defs>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="0%" style="stop-color:#0a0e14"/>
       <stop offset="100%" style="stop-color:#161b22"/>
     </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="2" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
     <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#45d6f0"/>
       <stop offset="50%" style="stop-color:#2aa198"/>
@@ -18,58 +11,50 @@
     </linearGradient>
     <linearGradient id="tagGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#3fb950"/>
-      <stop offset="50%" style="stop-color:#56d364"/>
-      <stop offset="100%" style="stop-color:#3fb950"/>
+      <stop offset="100%" style="stop-color:#56d364"/>
     </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
   
   <!-- Background -->
-  <rect width="1000" height="280" fill="url(#bgGrad)" rx="12"/>
+  <rect width="1200" height="320" fill="url(#bgGrad)" rx="16"/>
   
-  <!-- Decorative border -->
-  <rect x="2" y="2" width="996" height="276" fill="none" stroke="#30363d" stroke-width="1" rx="11"/>
+  <!-- Border -->
+  <rect x="2" y="2" width="1196" height="316" fill="none" stroke="#30363d" stroke-width="2" rx="15"/>
   
-  <!-- Main ASCII Art Banner - BYTES KNIGHT -->
-  <g filter="url(#glow)">
-    <text x="500" y="80" text-anchor="middle" fill="url(#textGrad)" 
-          font-family="'Courier New', 'Consolas', 'Monaco', monospace" 
-          font-size="28" font-weight="bold" letter-spacing="2">
-      ██████╗  ██╗   ██╗ ████████╗ ███████╗ ███████╗      ██╗  ██╗ ███╗   ██╗ ██╗  ██████╗  ██╗  ██╗ ████████╗
-    </text>
-    <text x="500" y="106" text-anchor="middle" fill="url(#textGrad)" 
-          font-family="'Courier New', 'Consolas', 'Monaco', monospace" 
-          font-size="28" font-weight="bold" letter-spacing="2">
-      ██╔══██╗ ╚██╗ ██╔╝ ╚══██╔══╝ ██╔════╝ ██╔════╝      ██║ ██╔╝ ████╗  ██║ ██║ ██╔════╝  ██║  ██║ ╚══██╔══╝
-    </text>
-    <text x="500" y="132" text-anchor="middle" fill="url(#textGrad)" 
-          font-family="'Courier New', 'Consolas', 'Monaco', monospace" 
-          font-size="28" font-weight="bold" letter-spacing="2">
-      ████████╗ ╚████╔╝     ██║    █████╗   ███████╗      █████╔╝  ██╔██╗ ██║ ██║ ██║  ███╗ ███████║    ██║
-    </text>
-    <text x="500" y="158" text-anchor="middle" fill="url(#textGrad)" 
-          font-family="'Courier New', 'Consolas', 'Monaco', monospace" 
-          font-size="28" font-weight="bold" letter-spacing="2">
-      ██╔══██╗   ╚██╔╝      ██║    ██╔══╝   ╚════██║      ██╔═██╗  ██║╚██╗██║ ██║ ██║   ██║ ██╔══██║    ██║
-    </text>
-    <text x="500" y="184" text-anchor="middle" fill="url(#textGrad)" 
-          font-family="'Courier New', 'Consolas', 'Monaco', monospace" 
-          font-size="28" font-weight="bold" letter-spacing="2">
-      ███████╔╝    ██║       ██║    ███████╗ ███████║      ██║  ██╗ ██║ ╚████║ ██║ ╚██████╔╝ ██║  ██║    ██║
-    </text>
-    <text x="500" y="210" text-anchor="middle" fill="url(#textGrad)" 
-          font-family="'Courier New', 'Consolas', 'Monaco', monospace" 
-          font-size="28" font-weight="bold" letter-spacing="2">
-      ╚═════╝     ╚═╝       ╚═╝    ╚══════╝ ╚══════╝      ╚═╝  ╚═╝ ╚═╝  ╚═══╝ ╚═╝  ╚═════╝  ╚═╝  ╚═╝    ╚═╝
-    </text>
-  </g>
+  <!-- Decorative top line -->
+  <line x1="100" y1="60" x2="1100" y2="60" stroke="#45d6f0" stroke-width="1" opacity="0.3"/>
   
-  <!-- Tagline -->
-  <text x="500" y="245" text-anchor="middle" fill="url(#tagGrad)" 
+  <!-- Main Title - BYTES KNIGHT -->
+  <text x="600" y="170" text-anchor="middle" 
+        fill="url(#textGrad)" 
         font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" 
-        font-size="16" letter-spacing="1">
-    > offensive security • bug bounty hunter • security researcher
+        font-size="82" 
+        font-weight="bold"
+        letter-spacing="12"
+        filter="url(#glow)">
+    BYTES KNIGHT
   </text>
   
-  <!-- Subtle bottom line -->
-  <line x1="50" y1="265" x2="950" y2="265" stroke="#30363d" stroke-width="1"/>
+  <!-- Subtitle line -->
+  <line x1="300" y1="200" x2="900" y2="200" stroke="#30363d" stroke-width="1"/>
+  
+  <!-- Tagline -->
+  <text x="600" y="240" text-anchor="middle" fill="url(#tagGrad)" 
+        font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" 
+        font-size="18" 
+        letter-spacing="3">
+    offensive security • bug bounty hunter • security researcher
+  </text>
+  
+  <!-- Decorative bottom accent -->
+  <circle cx="600" cy="280" r="4" fill="#45d6f0" opacity="0.6"/>
+  <circle cx="580" cy="280" r="2" fill="#3fb950" opacity="0.4"/>
+  <circle cx="620" cy="280" r="2" fill="#3fb950" opacity="0.4"/>
 </svg>
